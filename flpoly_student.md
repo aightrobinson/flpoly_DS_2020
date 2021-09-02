@@ -1,23 +1,22 @@
-## First Name Last Name
+## Robinson Louizius
 
-### Spring 2020 
+### Fall 2021
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Introduction To Data Science
 
-- Course 2
+- Introduction to Programming Using Python
 
-- Course 3
+- Precalculus Algebra/Trigonometry
 
-- Course 4
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Playing lacrosse
 
-- Thing 2
+- Playing Basketball
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- [Learn in Florida Polytechnic University](https://www.floridapoly.edu)
