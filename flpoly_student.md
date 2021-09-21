@@ -20,3 +20,8 @@ I am _passionate about_:
 - Playing Basketball
 
 - [Learn in Florida Polytechnic University](https://www.floridapoly.edu)
+
+|Prefix|Number|Name                        |Credits|
+|:----:|:----:|:--------------------------:|:-----:|
+|COP   |2073  |Introduction to Data Science|3      |
+
